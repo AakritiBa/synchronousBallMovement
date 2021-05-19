@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
